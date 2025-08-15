@@ -1,3 +1,3 @@
-![Portifolio](https://drive.google.com/file/d/1fqEH8HjctZWoDvE8TZAa-WkQ2AMfoU6X/view?usp=sharing)
+![Portifolio](https://raw.githubusercontent.com/DaneAlbuquerque/js-developer-portfolio/refs/heads/main/portifolio.png)
 
 link: https://danealbuquerque.github.io/js-developer-portfolio/
